@@ -1,0 +1,13 @@
+C:\Users\pedro\source\repos\cotador\cotador\bin\Release\cotador.exe.config
+C:\Users\pedro\source\repos\cotador\cotador\bin\Release\cotador.exe
+C:\Users\pedro\source\repos\cotador\cotador\bin\Release\cotador.pdb
+C:\Users\pedro\source\repos\cotador\cotador\bin\Release\cotador.xml
+C:\Users\pedro\source\repos\cotador\cotador\obj\Release\cotador.vbproj.ResolveComReference.cache
+C:\Users\pedro\source\repos\cotador\cotador\obj\Release\cotador.Form1.resources
+C:\Users\pedro\source\repos\cotador\cotador\obj\Release\cotador.Resources.resources
+C:\Users\pedro\source\repos\cotador\cotador\obj\Release\cotador.vbproj.GenerateResource.cache
+C:\Users\pedro\source\repos\cotador\cotador\obj\Release\cotador.vbproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\cotador\cotador\obj\Release\cotador.exe
+C:\Users\pedro\source\repos\cotador\cotador\obj\Release\cotador.xml
+C:\Users\pedro\source\repos\cotador\cotador\obj\Release\cotador.pdb
+C:\Users\pedro\source\repos\cotador\cotador\obj\Release\cotador.vbprojAssemblyReference.cache
